@@ -62,7 +62,7 @@ From the filtered DataFrame we added the cities to a marker layer map with a pop
 ![alt text](https://github.com/nikmahadeshwar/WorldWeather/blob/main/WeatherPy_vacation.png)
 
 ## Travel Itinerary with a Corresponding Map
-We created a map (travel itinerary) that shows the route between four cities from the customer’s possible travel destinations, and then created a map with pop-up markers for the four cities, by:
+We created a map (travel itinerary) that shows the route between four cities from the customer’s travel destinations, and then created a map with pop-up markers for the four cities, by:
 
 Importing the WeatherPy_vacation.csv file as a new DataFrame. From the vacation search map, we chose four cities in close proximity on our map that are on the same continent that a customer might travel to, and then created a directions layer map.
 
@@ -72,5 +72,5 @@ Importing the WeatherPy_vacation.csv file as a new DataFrame. From the vacation 
 
 ![alt text](https://github.com/nikmahadeshwar/WorldWeather/blob/main/WeatherPy_travel_map_markers.png)
 
-For the travel_mode, we used either DRIVING, BICYCLING, or WALKING.
+For the travel_mode, we used either Driving.
 ![alt text](https://github.com/nikmahadeshwar/WorldWeather/blob/main/WeatherPy_travel_map.png)
